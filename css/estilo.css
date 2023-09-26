@@ -1,0 +1,56 @@
+body {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secao-topo img {
+    width: 350px;
+    margin: 0px;
+}
+
+.secao-topo a {
+    border: #7baf92 solid 3px;
+    background-color: #7baf92;
+    margin-left: 20px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 15px;
+}
+
+.secao-sobre h2 {
+    font-size: 20px;
+    color: #e04d6f;
+}
+
+.secao-sobre {
+    border-top: #d7679c solid 1px;
+    margin-top: 50px;
+}
+
+.secao-sobre img {
+    width: 700px;
+}
+
+.secao-produtos {
+    background-color: #e04d6f;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.secao-produtos img {
+    width: 350px;
+    padding-top: 20px;
+}
+
+.secao-produtos p {
+    width: 600px;
+    margin: 0 auto;
+    line-height: 20px;
+}
+
+span {
+    font-weight: bold;
+}
